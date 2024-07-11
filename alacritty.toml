@@ -13,3 +13,5 @@ decorations = 'None'
 blur = true
 padding = {x=3, y=3}
 
+[env]
+WINIT_X11_SCALE_FACTOR = "2.0"
