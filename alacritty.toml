@@ -1,0 +1,15 @@
+import = [
+    "~/.config/alacritty/themes/themes/gruvbox_dark.toml"
+]
+
+[font]
+size = 8
+normal = { family = "Iosevka", style = "Regular"}
+
+[window]
+dynamic_title = true
+opacity = 1.0
+decorations = 'None'
+blur = true
+padding = {x=3, y=3}
+
